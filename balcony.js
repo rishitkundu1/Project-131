@@ -3,7 +3,7 @@ status = "";
 objects = [];
 
 function preload(){
-      img = loadImage("Bedroom.jpg")
+      img = loadImage("BalconyEntrance.jpg");
 }
 function draw(){
       image(img, 0, 0, 700, 500);
